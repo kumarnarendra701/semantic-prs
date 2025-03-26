@@ -1,6 +1,6 @@
 # Semantic PRs
 
-> A GitHub app to check that pull requests follow the Conventional Commits spec
+> A GitHub app to check that pull requests follow the Conventional Commits spec 
 
 ## Installation
 
